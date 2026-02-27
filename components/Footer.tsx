@@ -29,14 +29,14 @@ export default function Footer() {
           <div>
             <h4 className="text-sm font-semibold mb-4">Контакты</h4>
             <div className="flex flex-col gap-2 text-gray text-sm">
-              <a href="tel:+77001234567" className="hover:text-white transition-colors">
-                +7 (700) 123-45-67
+              <a href="tel:+74951234567" className="hover:text-white transition-colors">
+                +7 (495) 123-45-67
               </a>
-              <a href="mailto:hello@nordfit.kz" className="hover:text-white transition-colors">
-                hello@nordfit.kz
+              <a href="mailto:hello@nordfit.ru" className="hover:text-white transition-colors">
+                hello@nordfit.ru
               </a>
-              <p>ул. Кабанбай Батыра, 15</p>
-              <p>Нур-Султан, Казахстан</p>
+              <p>ул. Большая Дмитровка, 15</p>
+              <p>Москва, Россия</p>
             </div>
           </div>
         </div>

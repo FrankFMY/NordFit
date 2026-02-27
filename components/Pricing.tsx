@@ -97,7 +97,7 @@ export default function Pricing() {
                   <span className="text-4xl lg:text-5xl font-bold">
                     {plan.price}
                   </span>
-                  <span className="text-gray text-lg">₸{plan.period}</span>
+                  <span className="text-gray text-lg">₽{plan.period}</span>
                 </div>
               </div>
 

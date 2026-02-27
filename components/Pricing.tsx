@@ -78,7 +78,7 @@ export default function Pricing() {
               whileInView={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.5, delay: i * 0.15 }}
               viewport={{ once: true, margin: "-60px" }}
-              className={`relative rounded-2xl p-6 lg:p-8 border transition-all duration-500 ${
+              className={`relative rounded-2xl p-5 md:p-6 lg:p-8 border transition-all duration-500 ${
                 plan.highlighted
                   ? "bg-accent/5 border-accent/40 shadow-[0_0_40px_rgba(59,130,246,0.1)]"
                   : "bg-dark-card border-dark-border hover:border-accent/20"

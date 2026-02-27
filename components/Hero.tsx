@@ -92,7 +92,7 @@ export default function Hero() {
           initial={{ opacity: 0 }}
           animate={{ opacity: 1 }}
           transition={{ delay: 1.4, duration: 0.8 }}
-          className="mt-16 flex gap-12"
+          className="mt-16 flex flex-wrap gap-x-8 gap-y-4 sm:gap-12"
         >
           {[
             { value: "500+", label: "клиентов" },
